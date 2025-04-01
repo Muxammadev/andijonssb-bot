@@ -1,5 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,pycharm+all,database,venv
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,pycharm+all,database,venv
+.env
+.venv
+.idea
+/__pycache__
 
 ### Database ###
 *.accdb
